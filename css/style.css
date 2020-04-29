@@ -65,10 +65,10 @@ section {
   margin-bottom: 28px;
 }
 
-.text-block-subtitle {
+.section-text {
+  text-align: center;
   font-size: 17px;
   line-height: 24px;
-  text-align: center;
   color: #4d4943;
 }
 
@@ -123,13 +123,6 @@ section {
   text-transform: uppercase;
   color: #333;
   margin-bottom: 28px;
-}
-
-.section-text {
-  text-align: center;
-  font-size: 17px;
-  line-height: 24px;
-  color: #4d4943;
 }
 
 .photo-block {
@@ -243,5 +236,79 @@ section {
   margin-bottom: 150px;
   width: 70px;
   border: 3px solid #f1b128;
+  display: inline-block;
+}
+
+.secret-title {
+  font-size: 22px;
+  line-height: 18px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #333;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.secret-photo {
+  width: 191px;
+  height: 178px;
+  display: inline-block;
+}
+
+.secret-photo1 {
+  background-image: url("../img/secret1.png");
+}
+
+.secret-photo2 {
+  background-image: url("../img/secret2.png");
+}
+
+.secret-photo3 {
+  background-image: url("../img/secret3.png");
+}
+
+.secret-photo4 {
+  background-image: url("../img/secret4.png");
+}
+
+.secret-photo5 {
+  background-image: url("../img/secret5.png");
+}
+
+.secret-photo6 {
+  background-image: url("../img/secret6.png");
+}
+
+.secret-photo7 {
+  background-image: url("../img/secret7.png");
+}
+
+.secret-photo8 {
+  background-image: url("../img/secret8.png");
+}
+
+.secret-photo9 {
+  background-image: url("../img/secret9.png");
+}
+
+.secret-photo10 {
+  background-image: url("../img/secret10.png");
+}
+
+.secret-photo11 {
+  background-image: url("../img/secret11.png");
+}
+
+.secret-photo12 {
+  background-image: url("../img/secret12.png");
+}
+
+.secret-photo-name {
+  font-size: 14px;
+  line-height: 12px;
+  color: #fff;
+  padding: 14px 20px;
+  margin: 125px 0 0 15px;
+  background-color: #333;
   display: inline-block;
 }
