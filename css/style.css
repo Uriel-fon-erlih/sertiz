@@ -239,7 +239,8 @@ section {
   display: inline-block;
 }
 
-.secret-title {
+.secret-title,
+.gold-secret {
   font-size: 22px;
   line-height: 18px;
   text-align: center;
@@ -307,8 +308,68 @@ section {
   font-size: 14px;
   line-height: 12px;
   color: #fff;
-  padding: 14px 20px;
+  padding: 15px 25px;
   margin: 125px 0 0 15px;
   background-color: #333;
   display: inline-block;
+}
+
+.secret-photo-name:hover {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.gold-click-icon {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFF;
+  background-color: #333;
+  display: inline-block;
+  padding: 30px 70px;
+  margin-left: 19px;
+}
+
+.gold-icon1 {
+  vertical-align: middle;
+  margin: 55px 110px 20px;
+}
+
+.gold-icon2 {
+  vertical-align: middle;
+  margin: 55px 120px 20px;
+}
+
+.gold-icon3 {
+  vertical-align: middle;
+  margin: 55px 130px 20px;
+}
+
+.gold-text {
+  vertical-align: top;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #505050;
+  width: 255px;
+  margin: 0 17px 0;
+
+}
+
+.gold-line-yellow {
+  display: inline-block;
+  border: 3px solid #f1b128;
+  width: 70px;
+}
+
+.line-gold1 {
+  margin: 55px 100px 20px;
+}
+
+.line-gold2 {
+  margin: 55px 105px 20px;
+}
+
+.line-gold3 {
+  margin: 55px 115px 20px;
 }
